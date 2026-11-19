@@ -1,0 +1,13 @@
+name,event_id,series,real_peak_excess,n_eligible,n_at_least_real_peak,share_at_least_real_peak,n_nonoverlapping,n_nonoverlapping_at_least_real_peak
+Bluegrass Bathing,bluegrass_bathing,google_trends_city_topic,-0.3735895666258102,12,12,1.0,1,1
+Bluegrass Bathing,bluegrass_bathing,wikipedia_article_pageviews,3.478966830301232,12,8,0.6666666666666666,1,0
+Harmon Room,harmon_room,google_trends_city_topic,13.55805281559627,21,3,0.14285714285714285,2,0
+Harmon Room,harmon_room,wikipedia_article_pageviews,-24.180316724030355,21,21,1.0,2,2
+"Hey, Aliens!",hey_aliens,google_trends_city_topic,4.589286170296717,21,12,0.5714285714285714,2,1
+"Hey, Aliens!",hey_aliens,wikipedia_article_pageviews,-34.014076812119185,21,21,1.0,2,2
+Horse Kicks,horse_kicks,google_trends_city_topic,9.382412431192932,19,6,0.3157894736842105,2,1
+Horse Kicks,horse_kicks,wikipedia_article_pageviews,12.81622693033438,19,6,0.3157894736842105,2,1
+Neigh-I,neigh_i,google_trends_city_topic,7.533852140356615,20,8,0.4,2,1
+Neigh-I,neigh_i,wikipedia_article_pageviews,3.5873615246688786,20,7,0.35,2,1
+Plant-Friendly Hotel,plant_hotel,google_trends_city_topic,14.122672701933666,20,0,0.0,2,0
+Plant-Friendly Hotel,plant_hotel,wikipedia_article_pageviews,20.048325724891512,20,3,0.15,2,1

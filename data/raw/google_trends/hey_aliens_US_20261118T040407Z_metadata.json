@@ -1,0 +1,48 @@
+{
+  "event_id": "hey_aliens",
+  "working_first_press_date": "2024-01-08",
+  "start": "2023-07-08",
+  "end": "2024-07-08",
+  "geo": "US",
+  "category": 0,
+  "search_type": "web",
+  "timezone_offset_minutes": 360,
+  "pulled_at_utc": "2026-11-18T04:04:08.374691+00:00",
+  "method": "pytrends 4.9.2 interest_over_time",
+  "topics": {
+    "Lexington": {
+      "mid": "/m/0d9y6",
+      "title": "Lexington",
+      "type": "City in Kentucky"
+    },
+    "Louisville": {
+      "mid": "/m/0f__1",
+      "title": "Louisville",
+      "type": "City in Kentucky"
+    },
+    "Cincinnati": {
+      "mid": "/m/01snm",
+      "title": "Cincinnati",
+      "type": "City in Ohio"
+    },
+    "Nashville": {
+      "mid": "/m/05jbn",
+      "title": "Nashville",
+      "type": "City in Tennessee"
+    },
+    "Knoxville": {
+      "mid": "/m/0_vn7",
+      "title": "Knoxville",
+      "type": "City in Tennessee"
+    }
+  },
+  "rows": 54,
+  "columns": [
+    "/m/0d9y6",
+    "/m/0f__1",
+    "/m/01snm",
+    "/m/05jbn",
+    "/m/0_vn7",
+    "isPartial"
+  ]
+}
